@@ -1,0 +1,4 @@
+<view class="play">
+    <video src="{{src}}"></video>
+</view>
+<text>当你看完这个励志视频，瞬间觉得自己要努力了</text>
